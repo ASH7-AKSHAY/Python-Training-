@@ -1,0 +1,3 @@
+sentence=input()
+word=input()
+print("true" if word in sentence else "false")
