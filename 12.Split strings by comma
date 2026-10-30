@@ -1,0 +1,4 @@
+s = input()
+result = s.split(",")
+for item in result:
+    print(item)
