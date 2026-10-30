@@ -1,0 +1,15 @@
+a=int(input())
+l=int(input())
+w=int(input())
+r=int(input())
+s1=int(input())
+s2=int(input())
+b=int(input())
+square=4*a
+rectangle=2*(l+w)
+circle=2*3.14*r
+triangle=s1+b+s2
+print(square)
+print(rectangle)
+print("%.2f"%circle)
+print(triangle)
