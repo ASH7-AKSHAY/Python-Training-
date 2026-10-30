@@ -1,0 +1,4 @@
+s = input()
+ch = input()
+result = s.replace(ch, "")
+print(result)
